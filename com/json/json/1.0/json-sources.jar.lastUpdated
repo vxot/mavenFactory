@@ -1,0 +1,20 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 10:00:59 CST 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532570458418
+@default-travis-ci-repo-http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.lastUpdated=1532570451372
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1532570457473
+http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.error=Could not transfer artifact com.json\:json\:jar\:sources\:1.0 from/to travis-ci-repo (http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central)\: maven.mirrors.travis-ci.org
+http\://maven.cloudhopper.com/repos/third-party/.error=Could not transfer artifact com.json\:json\:jar\:sources\:1.0 from/to cloudhopper (http\://maven.cloudhopper.com/repos/third-party/)\: maven.cloudhopper.com
+@default-sourceforge-releases-https\://oss.sonatype.org/content/repositories/sourceforge-releases/.lastUpdated=1532570459798
+http\://repo.maven.apache.org/maven2/.lastUpdated=1532570457922
+http\://download.java.net/maven/2/.lastUpdated=1532570454540
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://oss.sonatype.org/content/repositories/sourceforge-releases/.error=Could not transfer artifact com.json\:json\:jar\:sources\:1.0 from/to sourceforge-releases (https\://oss.sonatype.org/content/repositories/sourceforge-releases/)\: Failed to transfer https\://oss.sonatype.org/content/repositories/sourceforge-releases/com/json/json/1.0/json-1.0-sources.jar. Error code 503, Service Unavailable
+https\://repository.apache.org/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.apache.org/content/groups/public/.lastUpdated=1532570451102
+@default-cloudhopper-http\://maven.cloudhopper.com/repos/third-party/.lastUpdated=1532570455997
+http\://repo1.maven.org/maven2/.error=
+http\://repo.springsource.org/release/.lastUpdated=1532570455470
+http\://repo.springsource.org/release/.error=

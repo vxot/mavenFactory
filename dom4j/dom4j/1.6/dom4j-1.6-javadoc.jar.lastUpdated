@@ -1,0 +1,20 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 17 17:23:47 CST 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1534497825392
+@default-travis-ci-repo-http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.lastUpdated=1534497817315
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1534497824495
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1534493969706
+http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.error=Could not transfer artifact dom4j\:dom4j\:jar\:javadoc\:1.6 from/to travis-ci-repo (http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central)\: maven.mirrors.travis-ci.org
+http\://maven.cloudhopper.com/repos/third-party/.error=Could not transfer artifact dom4j\:dom4j\:jar\:javadoc\:1.6 from/to cloudhopper (http\://maven.cloudhopper.com/repos/third-party/)\: maven.cloudhopper.com
+@default-sourceforge-releases-https\://oss.sonatype.org/content/repositories/sourceforge-releases/.lastUpdated=1534497827596
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://download.java.net/maven/2/.lastUpdated=1534497821473
+http\://download.java.net/maven/2/.error=
+https\://oss.sonatype.org/content/repositories/sourceforge-releases/.error=Could not transfer artifact dom4j\:dom4j\:jar\:javadoc\:1.6 from/to sourceforge-releases (https\://oss.sonatype.org/content/repositories/sourceforge-releases/)\: Failed to transfer https\://oss.sonatype.org/content/repositories/sourceforge-releases/dom4j/dom4j/1.6/dom4j-1.6-javadoc.jar. Error code 503, Service Unavailable
+https\://repository.apache.org/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.apache.org/content/groups/public/.lastUpdated=1534497817092
+@default-cloudhopper-http\://maven.cloudhopper.com/repos/third-party/.lastUpdated=1534497822888
+http\://repo1.maven.org/maven2/.error=
+http\://repo.springsource.org/release/.lastUpdated=1534497822826
+http\://repo.springsource.org/release/.error=

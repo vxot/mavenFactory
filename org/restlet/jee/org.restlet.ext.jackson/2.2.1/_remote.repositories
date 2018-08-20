@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 17 16:28:20 CST 2018
+org.restlet.ext.jackson-2.2.1-sources.jar>alimaven=
+org.restlet.ext.jackson-2.2.1.jar>alimaven=
+org.restlet.ext.jackson-2.2.1.pom>alimaven=

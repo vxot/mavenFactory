@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 17 17:21:16 CST 2018
+tomcat-embed-core-8.5.32-sources.jar>alimaven=
+tomcat-embed-core-8.5.32.jar>alimaven=
+tomcat-embed-core-8.5.32.pom>alimaven=

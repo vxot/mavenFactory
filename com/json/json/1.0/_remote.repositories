@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 10:48:09 CST 2018
+json-1.0.pom>=
+json-1.0.jar>=

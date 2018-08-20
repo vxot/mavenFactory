@@ -1,0 +1,20 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 19 12:01:27 CST 2018
+@default-java-repo-http\://download.java.net/maven/2/.lastUpdated=1534651287830
+@default-travis-ci-repo-http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.lastUpdated=1534651287823
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1534494563718
+http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-js\:jar\:sources\:1.7 from/to travis-ci-repo (http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central)\: maven.mirrors.travis-ci.org
+@default-apache-repo-https\://repository.apache.org/content/groups/public/.lastUpdated=1534651287816
+http\://maven.cloudhopper.com/repos/third-party/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-js\:jar\:sources\:1.7 from/to cloudhopper (http\://maven.cloudhopper.com/repos/third-party/)\: maven.cloudhopper.com
+@default-jboss-repo-releases-https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1534651287851
+@default-sourceforge-releases-https\://oss.sonatype.org/content/repositories/sourceforge-releases/.lastUpdated=1534651287868
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-js\:jar\:sources\:1.7 from/to java-repo (http\://download.java.net/maven/2/)\: download.java.net
+https\://oss.sonatype.org/content/repositories/sourceforge-releases/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-js\:jar\:sources\:1.7 from/to sourceforge-releases (https\://oss.sonatype.org/content/repositories/sourceforge-releases/)\: oss.sonatype.org
+@default-maven-repo1-http\://repo1.maven.org/maven2/.lastUpdated=1534651287859
+https\://repository.apache.org/content/groups/public/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-js\:jar\:sources\:1.7 from/to apache-repo (https\://repository.apache.org/content/groups/public/)\: repository.apache.org
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-js\:jar\:sources\:1.7 from/to jboss-repo-releases (https\://repository.jboss.org/nexus/content/repositories/releases/)\: repository.jboss.org
+@default-cloudhopper-http\://maven.cloudhopper.com/repos/third-party/.lastUpdated=1534651287844
+@default-springsource-repo-http\://repo.springsource.org/release/.lastUpdated=1534651287836
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-js\:jar\:sources\:1.7 from/to maven-repo1 (http\://repo1.maven.org/maven2/)\: repo1.maven.org
+http\://repo.springsource.org/release/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-js\:jar\:sources\:1.7 from/to springsource-repo (http\://repo.springsource.org/release/)\: repo.springsource.org

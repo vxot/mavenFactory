@@ -1,0 +1,22 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 17 16:43:18 CST 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532570967159
+@default-travis-ci-repo-http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.lastUpdated=1532570951371
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1532570966126
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1534495398231
+http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.error=Could not transfer artifact com.ueditor\:ueditor\:jar\:javadoc\:1.1.2 from/to travis-ci-repo (http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central)\: maven.mirrors.travis-ci.org
+http\://maven.cloudhopper.com/repos/third-party/.error=Could not transfer artifact com.ueditor\:ueditor\:jar\:javadoc\:1.1.2 from/to cloudhopper (http\://maven.cloudhopper.com/repos/third-party/)\: maven.cloudhopper.com
+@default-sourceforge-releases-https\://oss.sonatype.org/content/repositories/sourceforge-releases/.lastUpdated=1532570968274
+http\://repo.maven.apache.org/maven2/.lastUpdated=1532570966765
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://download.java.net/maven/2/.lastUpdated=1532570954025
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://oss.sonatype.org/content/repositories/sourceforge-releases/.error=Could not transfer artifact com.ueditor\:ueditor\:jar\:javadoc\:1.1.2 from/to sourceforge-releases (https\://oss.sonatype.org/content/repositories/sourceforge-releases/)\: Failed to transfer https\://oss.sonatype.org/content/repositories/sourceforge-releases/com/ueditor/ueditor/1.1.2/ueditor-1.1.2-javadoc.jar. Error code 503, Service Unavailable
+https\://repository.apache.org/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.apache.org/content/groups/public/.lastUpdated=1532570951360
+@default-cloudhopper-http\://maven.cloudhopper.com/repos/third-party/.lastUpdated=1532570964737
+http\://repo1.maven.org/maven2/.error=
+http\://repo.springsource.org/release/.lastUpdated=1532570964725
+http\://repo.springsource.org/release/.error=

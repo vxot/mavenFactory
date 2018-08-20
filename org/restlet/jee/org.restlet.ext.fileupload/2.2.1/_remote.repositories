@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 17 16:29:04 CST 2018
+org.restlet.ext.fileupload-2.2.1.jar>alimaven=
+org.restlet.ext.fileupload-2.2.1.pom>alimaven=
+org.restlet.ext.fileupload-2.2.1-sources.jar>alimaven=

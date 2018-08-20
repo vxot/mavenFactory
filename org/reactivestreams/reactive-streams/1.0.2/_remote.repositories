@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 17 17:20:41 CST 2018
+reactive-streams-1.0.2.jar>alimaven=
+reactive-streams-1.0.2.pom>alimaven=
+reactive-streams-1.0.2-sources.jar>alimaven=

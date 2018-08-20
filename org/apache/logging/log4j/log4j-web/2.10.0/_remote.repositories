@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 17 16:19:25 CST 2018
+log4j-web-2.10.0.jar>alimaven=
+log4j-web-2.10.0.pom>alimaven=
+log4j-web-2.10.0-sources.jar>alimaven=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 17 16:16:24 CST 2018
+junit-3.8.1.jar>alimaven=
+junit-3.8.1-sources.jar>alimaven=
+junit-3.8.1.pom>alimaven=

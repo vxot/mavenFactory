@@ -1,0 +1,20 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 26 10:47:09 CST 2018
+http\://repo1.maven.org/maven2/.lastUpdated=1532573228213
+@default-travis-ci-repo-http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.lastUpdated=1532573220359
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1532573226262
+http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central/.error=Could not transfer artifact com.json\:json\:pom\:1.0 from/to travis-ci-repo (http\://maven.mirrors.travis-ci.org/nexus/content/repositories/central)\: maven.mirrors.travis-ci.org
+http\://maven.cloudhopper.com/repos/third-party/.error=Could not transfer artifact com.json\:json\:pom\:1.0 from/to cloudhopper (http\://maven.cloudhopper.com/repos/third-party/)\: maven.cloudhopper.com
+@default-sourceforge-releases-https\://oss.sonatype.org/content/repositories/sourceforge-releases/.lastUpdated=1532573229348
+http\://repo.maven.apache.org/maven2/.lastUpdated=1532573226723
+http\://download.java.net/maven/2/.lastUpdated=1532573223852
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://oss.sonatype.org/content/repositories/sourceforge-releases/.error=Could not transfer artifact com.json\:json\:pom\:1.0 from/to sourceforge-releases (https\://oss.sonatype.org/content/repositories/sourceforge-releases/)\: Failed to transfer https\://oss.sonatype.org/content/repositories/sourceforge-releases/com/json/json/1.0/json-1.0.pom. Error code 503, Service Unavailable
+https\://repository.apache.org/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.apache.org/content/groups/public/.lastUpdated=1532573224942
+@default-cloudhopper-http\://maven.cloudhopper.com/repos/third-party/.lastUpdated=1532573224464
+http\://repo1.maven.org/maven2/.error=
+http\://repo.springsource.org/release/.lastUpdated=1532573224434
+http\://repo.springsource.org/release/.error=
